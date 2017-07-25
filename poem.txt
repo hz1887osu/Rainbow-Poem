@@ -2,3 +2,8 @@ github!=git
 git is an application
 github is the web service of git
 
+#github is not just for programmer
+
+# can come back to edit the file
+
+##the beauty of github is that each edit of the file (each commit) can have a note associate with it, so as to keep track of self/collaborating progress
